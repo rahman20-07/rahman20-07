@@ -1,8 +1,4 @@
-😄 Pronouns: He/His  
-🔭 I’m C++ Developer.
-🌱 I’m currently learning more about NodeJs/Backend.
-👯 I'm Experience Stock Trader
-🤔 I’m looking for help with the Backend.
-💬 Ask me about any tech-related stuff.
-📫 How to reach me: Check social links below
-⚡ Fun fact: I'm a very Fast Learner
+Hello! I'm Ibrahim Rahman 👋
+C++ & Python Developer | Data Enthusiast | Web Scraping Specialist
+
+I'm a versatile developer with expertise in both system-level programming with C++ and data-focused development with Python. My skills span from building efficient algorithms to extracting and analyzing valuable insights from data. I'm passionate about creating solutions that bridge the gap between raw data and actionable information.
