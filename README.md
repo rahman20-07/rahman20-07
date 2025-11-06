@@ -1,4 +1,5 @@
-Hello! I'm Ibrahim Rahman 👋
-C++ & Python Developer | Data Enthusiast | Web Scraping Specialist
+# Hello! I'm Ibrahim Rahman 👋
+JAVA | Python | Ststistics | Data Enthusiast | Web Scraping Specialist
 
-I'm a versatile developer with expertise in both system-level programming with C++ and data-focused development with Python. My skills span from building efficient algorithms to extracting and analyzing valuable insights from data. I'm passionate about creating solutions that bridge the gap between raw data and actionable information.
+An aspiring Data Scientist and final-year B.Tech student passionate about transforming raw data into actionable insights. Proficient in the end-to-end data workflow, including web scraping and data manipulation (Python, SQL), and statistical analysis. Strengthened by a solid foundation in Java for building scalable applications. Eager to leverage a versatile technical skill set to contribute to data-driven solutions.
+
